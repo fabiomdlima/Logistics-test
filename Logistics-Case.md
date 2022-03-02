@@ -29,7 +29,7 @@ the technical assessment in the end, enjoy!
 
 ### 3.2 - Get your hands dirty
 
-Using [this csv](https://github.com/fabiomdlima/Logistics/blob/main/logistics-case-v2.csv) 
+Using [this csv](https://github.com/fabiomdlima/Logistics/blob/main/logistics-case-v3.csv) 
 with hypothetical delivery data, imagine that you are analyzing the performance of our logistics operator in the deliveries of our products.
 Analyze the data provided and present your conclusions.
 In addition to the data in the spreadsheet, do a query in SQL and graph it and try to explain the anomalous behavior you found.
