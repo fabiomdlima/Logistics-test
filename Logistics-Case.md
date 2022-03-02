@@ -37,6 +37,7 @@ In addition to the data in the spreadsheet, do a query in SQL and graph it and t
 ### 3.3 - Solve the problem
 
 *Action plan - what would you do?*
+
 We make deliveries from a nationally structured logistics partner with distribution centers and delivery partners strategically spread to serve all zip code ranges in the country.
 Based on the data already analyzed, what would you do to reduce the average delivery time to 3 days?
 
