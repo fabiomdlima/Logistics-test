@@ -1,4 +1,4 @@
-# Logistics Operations Analyst Test
+# Logistics Operations Analyst Case
 
 ## 1. Introduction
 
