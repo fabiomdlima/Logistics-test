@@ -44,5 +44,6 @@ Based on the data already analyzed, what would you do to reduce the average deli
 ## 4. Deliverables
 
 You are expected to submit a compacted git repository with your answers and your project.
+
 We hope you have fun, learn and challenge yourself during this task :)
 
