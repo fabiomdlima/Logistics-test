@@ -61,5 +61,5 @@ A presentation may help you to organize your ideas and better present them
 ## 5. Observation
 If you are going to use a database to make your analysis, we have inserts ready in the insert.csv file; 
 
-## Have fun
+## 6. Have fun =D
 We hope you have fun, learn and challenge yourself during this task :)
