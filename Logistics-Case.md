@@ -30,16 +30,35 @@ the technical assessment in the end, enjoy!
 ### 3.2 - Get your hands dirty
 
 Using [this csv](https://github.com/fabiomdlima/Logistics/blob/main/logistics-case-v3.csv) 
-with hypothetical delivery data, imagine that you are analyzing the performance of our logistics operator in the deliveries of our products.
+with hypothetical delivery data, imagine that you are analyzing the performance of our logistics operators and the deliveries of our products.
 Analyze the data provided and present your conclusions.
 In addition to the data in the spreadsheet, do a query in SQL and graph it and try to explain the anomalous behavior you found.
 
-### 3.3 - Solve the problem
+### 3.2 Identify the problem
+Our obejective as a logistic team is to increase efficiency and efficacy(?). In the given data, we found our answers and have taken steps to be not only better, but cheaper and more secure. How and why would you do it? 
+Be free to use any helper you know of. ChatGPT, statistics, google. 
 
+
+guiding questions: 
+    What questions should start your analysis?
+    What does it means to be more ˜secure˜?
+    What are good KPIs to check for efficiency? 
+    Which data should we have a closer look and why?
+    Are we doing good? Are we doing bad?
+    what are the strong and weak sides of our operation?
+    What information would make the decision better?
+    what information makes your analysis wrong?
+    
+
+### 3.3 - Solve the problem
 *Action plan - what would you do?*
 
 We make deliveries from a nationally structured logistics partner with distribution centers and delivery partners strategically spread to serve all zip code ranges in the country.
+
 Based on the data already analyzed, what would you do to reduce the average delivery time to 3 days?
+If you were to ask the engeneering teams to gather more data, what should it be and why?
+What was the problem, how did you find it and what would we do to help fix it? 
+
 
 ## 4. Deliverables
 
