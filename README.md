@@ -1,65 +1,40 @@
-# Logistics Operations Analyst Test
+# CloudWalk's Backend Development Challenge: Ruby Book Library
 
-## 1. Introduction
+## Scenario
+Books are windows to different worlds. At CloudWalk, many of us are avid readers, and we often share book recommendations with each other. Imagine having a simple tool where team members can list books they recommend and also search for books based on certain criteria.
 
-This test is intended for candidates who are applying to Logistics Operations Analyst positions at CloudWalk.
+## Objective
+Develop an API that allows team members to add books to a shared list and also query books based on specific parameters.
 
-If you are here, we already like you and see you as a good fit with our company. 
-Now, we propose a challenge similar to the ones that we face on a daily basis.
-The challenges were created with the objective of helping you build the knowledge base needed to implement 
-the technical assessment in the end, enjoy!
+## Requirements
 
-- The first challenge is an analysis of hypothetical data.
-- The second challenge is the actual implementation of a solution to a real world problem.
+### Book Entry
+- A book should have a title, author, genre, and publication year.
 
-## 2. Pre-requisites
+### Book Query
+- Allow users to fetch a list of all books.
+- Provide a search functionality where users can search for books based on title, author, or genre.
 
-- Git
-- A development environment
-- Any analysis tool 
+### Endpoint Creation
+- Create endpoints for adding a book and querying books.
 
-## 3. Tasks
+### Test-Driven Development (TDD)
+- Before implementing each functionality, write tests to specify and validate what the code will do.
+- For instance, before implementing the "add book" functionality, write a test to ensure a book can be added successfully.
 
-### 3.1 - Get your hands dirty
+## Instructions
+1. Begin by writing tests for each piece of functionality (TDD approach).
+2. Implement the functionality to make your tests pass.
+3. Focus on clean, readable, and organized code.
+4. Use Git for version control.
+5. Provide instructions for setting up and testing the API locally.
+6. Thorough documentation will assist us in evaluating and understanding the quality of your code.
 
-Using [this csv](https://github.com/fabiomdlima/Logistics/blob/main/logistic-case-v4.csv) 
-containing hypothetical delivery data, imagine that you are analyzing the performance of our logistics operators and the delivery of our products. Analyze the data and present your conclusions. In addition to the data in the spreadsheet, perform a SQL query, graph the results, and explain any anomalous behavior you find
+## Evaluation Criteria
+- Functionality: Can books be added and queried effectively?
+- TDD Adherence: Were tests written before implementation? Do they adequately test the API's capabilities?
+- Code Quality: Is the code structured, readable, and does it follow best practices?
 
-### 3.2 Identify the problem
-Our objective as a logistic team is to increase efficiency. In the given data, we found our answers and have taken steps to be not only better, but cheaper and more secure. How and why would *you* do it? 
+**Note:** This is an opportunity to showcase your foundational skills and your understanding of TDD. Take your time, think through your approach, and enjoy the process!
 
-Be free to use any helper you know of. ChatGPT, statistics, google.
-Remember to document it and add it to the presentation
-
-Guiding questions: 
-
-    What questions should start your analysis?
-    What does it means to be more "secure"?
-    What are good KPIs to check for efficiency? 
-    Which data should we examine more closely and why??
-    Are we doing good? Are we doing bad?
-    what are the strong and weak sides of our operation?
-    What information would improve the decision-making process?
-    What information makes your analysis wrong?
-
-### 3.3 - Solve the problem
-*Action plan - what would you do?*
-
-We make deliveries from a nationally structured logistics partner with distribution centers and delivery partners strategically spread to serve all zip code ranges in the country.
-
-Based on the data already analyzed, what would you do to reduce the average delivery time to 3 days?
-
-If you were to ask the engineering teams to gather more data, what should it be and why?
-
-What were the problems, how did you find them and what should we do to fix them?
-
-## 4. Deliverables
-
-You are expected to submit a compact git repository with your answers and project.
-A presentation may help you to organize your ideas and better present them
-
-## 5. Observation
-If you are going to use a database to make your analysis, we have inserts ready in the insert.csv file; 
-
-## 6. Have fun =D
-We hope you have fun, learn and challenge yourself during this task :)
+**Post Scriptum:** While you are welcome to complete this challenge in a programming language you're comfortable with, it's important to note that our primary language for development at CloudWalk is Ruby. Demonstrating your proficiency in Ruby would be a plus.
